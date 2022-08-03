@@ -1,3 +1,3 @@
-### Verification Bot 
+# Verification Bot 
 
-# This simple bot handles verification in a server with roughly 2000 members
+This simple bot handles verification in a server with roughly 2000 members
